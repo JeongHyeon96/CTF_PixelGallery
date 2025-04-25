@@ -87,7 +87,7 @@ CTF_PixelGallery_TeamEN/
 
 ## 💾 가상머신 다운로드
 프로젝트 테스트를 위해 사용된 OVA 파일은 아래 링크를 통해 다운로드하실 수 있습니다:
-👉 [PixelGallery_VM.ova 다운로드 (Google Drive)] ((https://drive.google.com/file/d/1_gizfkVfZi1t7p3K2RI9asCyjgrrKsUH/view?usp=sharing))
+👉 [PixelGallery_VM.ova 다운로드](https://drive.google.com/file/d/1_gizfkVfZi1t7p3K2RI9asCyjgrrKsUH/view?usp=sharing)
 
 🚀 실행 방법
 Oracle VM VirtualBox 환경 
