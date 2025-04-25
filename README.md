@@ -86,16 +86,13 @@ CTF_PixelGallery_TeamEN/
 
 
 🚀 실행 방법
-Apache + PHP + MySQL 환경 필요 (Docker 또는 수동 설치 가능)
-
-html/main.html로 접속하여 메인 페이지 실행
-
-/api/check.php를 통해 문제 정답 확인 처리
+Oracle VM VirtualBox 환경 
+OVA 파일 가져오기 -> 네트워크: 호스트전용 -> nmap 스캐닝으로 시작
 
 📸 스크린샷
 추후 추가 예정입니다.
 
 📄 라이선스
-MIT License
+Wordpress
 
 🙌 즐겁게 해킹하세요!
