@@ -54,6 +54,25 @@ WordPress, FTP, SSH 환경을 활용해 다양한 취약점을 학습할 수 있
 
 ---
 
+## 💾 가상머신 다운로드
+
+프로젝트 테스트를 위해 사용된 OVA 파일은 아래 링크를 통해 다운로드하실 수 있습니다:
+
+👉 [PixelGallery_VM.ova 다운로드](https://drive.google.com/file/d/1_gizfkVfZi1t7p3K2RI9asCyjgrrKsUH/view?usp=sharing)
+
+---
+
+## 🚀 실행 방법
+Oracle VM VirtualBox 환경 
+OVA 파일 가져오기 -> 네트워크: 호스트전용 -> nmap 스캐닝으로 시작
+
+---
+
+## 📸 스크린샷
+추후 추가 예정입니다.
+
+---
+
 ## 📂 디렉토리 구조
 
 ```bash
@@ -84,26 +103,11 @@ CTF_PixelGallery_TeamEN/
 │
 └── LICENSE                     # 오픈소스 라이선스 (MIT 등)
 
----
-
-💾 가상머신 다운로드
-프로젝트 테스트를 위해 사용된 OVA 파일은 아래 링크를 통해 다운로드하실 수 있습니다:
-👉 PixelGallery_VM.ova 다운로드
 
 ---
 
-🚀 실행 방법
-Oracle VM VirtualBox 환경
-OVA 파일 가져오기 -> 네트워크: 호스트전용 -> nmap 스캐닝으로 시작
+## 📄 라이선스
+Wordpress
 
 ---
-
-📸 스크린샷
-추후 추가 예정입니다.
-
----
-📄 라이선스
-WordPress
-
-
 🙌 즐겁게 해킹하세요!
