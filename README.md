@@ -115,7 +115,14 @@ CTF_PixelGallery_TeamEN/
 ---
 
 ## 📄 라이선스
-Wordpress
+- **WordPress**  
+  ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+- **Rocky Linux**  
+  ![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white)
+
+- **MariaDB**  
+  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ---
 🙌 즐겁게 해킹하세요!
