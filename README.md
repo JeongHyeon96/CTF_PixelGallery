@@ -47,7 +47,7 @@ WordPress, FTP, SSH 환경을 활용해 다양한 취약점을 학습할 수 있
 | 이름       | GitHub ID         | 역할 설명                               |
 |------------|------------------|----------------------------------------|
 | 김정현     | [JeongHyeon96](https://github.com/JeongHyeon96) | 워드프레스, FTP 서버, SQLI, 웹쉘 취약점페이지 구성     |
-| 조범근    | (GitHub ID)       | hydra툴을 사용할 수 있도록 취약한 웹사이트 구성, WorkThrough 작성, 전체적인 시나리오 구성          |
+| 조범근    | [whathekim](https://github.com/whathekim       | hydra툴을 사용할 수 있도록 취약한 웹사이트 구성, WorkThrough 작성, 전체적인 시나리오 구성          |
 | 김병욱    | (GitHub ID)       | SSH ROOT 권한 상승 및 트리거 설계 등    |
 
 
