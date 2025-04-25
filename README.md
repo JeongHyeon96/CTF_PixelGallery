@@ -83,3 +83,19 @@ CTF_PixelGallery_TeamEN/
 │       └── hacker.css          # 공통 CSS
 │
 └── LICENSE                     # 오픈소스 라이선스 (MIT 등)
+
+
+🚀 실행 방법
+Apache + PHP + MySQL 환경 필요 (Docker 또는 수동 설치 가능)
+
+html/main.html로 접속하여 메인 페이지 실행
+
+/api/check.php를 통해 문제 정답 확인 처리
+
+📸 스크린샷
+추후 추가 예정입니다.
+
+📄 라이선스
+MIT License
+
+🙌 즐겁게 해킹하세요!
