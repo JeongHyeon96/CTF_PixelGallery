@@ -114,7 +114,7 @@ CTF_PixelGallery_TeamEN/
 ```
 ---
 
-## 📄 라이선스
+## 📄 사용한 기술 스택
 - **WordPress**  
   ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
@@ -123,6 +123,11 @@ CTF_PixelGallery_TeamEN/
 
 - **MariaDB**  
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+---
+## 📄 라이선스
+
+이 프로젝트는 **KOREAIT** 실습과정으로 제작되었습니다.
 
 ---
 🙌 즐겁게 해킹하세요!
