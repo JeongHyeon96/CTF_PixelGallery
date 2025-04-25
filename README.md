@@ -46,9 +46,9 @@ WordPress, FTP, SSH 환경을 활용해 다양한 취약점을 학습할 수 있
 
 | 이름       | GitHub ID         | 역할 설명                               |
 |------------|------------------|----------------------------------------|
-| 김정현     | [JeongHyeon96](https://github.com/JeongHyeon96) | 워드프레스 구성, PHP API, 문제 설계     |
-| (팀원1)    | (GitHub ID)       | (예: FTP 서버 구성, 게임 개발 등)        |
-| (팀원2)    | (GitHub ID)       | (예: SSH 권한 상승 및 트리거 설계 등)    |
+| 김정현     | [JeongHyeon96](https://github.com/JeongHyeon96) | 워드프레스 구성, PHP API, FTP 서버구성, SQLI 취약점페이지 작성     |
+| 조범근    | (GitHub ID)       | 워크뜨루 구성, 전체적인 시나리오 작성,         |
+| 김병욱    | (GitHub ID)       | SSH ROOT 권한 상승 및 트리거 설계 등    |
 
 > 전체 역할 정리는 [docs/team_roles.md](docs/team_roles.md) 참고
 
