@@ -50,7 +50,7 @@ WordPress, FTP, SSH 환경을 활용해 다양한 취약점을 학습할 수 있
 | 조범근    | (GitHub ID)       | hydra툴을 사용할 수 있도록 취약한 웹사이트 구성, WorkThrough 작성, 전체적인 시나리오 구성          |
 | 김병욱    | (GitHub ID)       | SSH ROOT 권한 상승 및 트리거 설계 등    |
 
-> 전체 역할 정리는 [docs/team_roles.md](docs/team_roles.md) 참고
+
 
 ---
 
