@@ -93,15 +93,21 @@ CTF_PixelGallery_TeamEN/
 
 👉 [PixelGallery_VM.ova 다운로드](https://drive.google.com/file/d/1_gizfkVfZi1t7p3K2RI9asCyjgrrKsUH/view?usp=sharing)
 
+---
 
-🚀 실행 방법
+## 🚀 실행 방법
 Oracle VM VirtualBox 환경 
 OVA 파일 가져오기 -> 네트워크: 호스트전용 -> nmap 스캐닝으로 시작
 
-📸 스크린샷
+---
+
+## 📸 스크린샷
 추후 추가 예정입니다.
 
-📄 라이선스
+---
+
+## 📄 라이선스
 Wordpress
 
+---
 🙌 즐겁게 해킹하세요!
