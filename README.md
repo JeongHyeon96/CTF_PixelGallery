@@ -1,43 +1,44 @@
 # CTF_PixelGallery_TeamEN
 
-> A CTF-style web gallery project developed by Team EN using Wordpress, FTP, SSH
+> Team EN이 제작한 CTF(해킹 문제 풀이) 스타일 웹 갤러리 프로젝트입니다.
 
-## 🎯 Project Overview
+## 🎯 프로젝트 소개
 
-This project is a Capture The Flag (CTF) style challenge website named **Pixel Gallery**, created by **Team EN**. It simulates realistic web vulnerabilities and attack vectors using:
+**Pixel Gallery**는 실제 웹 해킹 시나리오를 반영한 CTF 스타일의 워게임 플랫폼입니다.  
+WordPress, FTP, SSH 환경을 활용해 다양한 취약점을 문제로 구성했습니다.
 
-- WordPress (for plugin vulnerabilities)
-- FTP (for file upload and webshell injection)
-- SSH (for privilege escalation)
+이 프로젝트는 정보보안 교육, CTF 연습, 또는 모의 해킹 연습을 목적으로 개발되었습니다.
 
-## 🛠️ Features
+## 🔧 주요 기능
 
-- 📸 Web-based gallery interface
-- 🔐 Vulnerable WordPress plugins (e.g., Flamingo, WP Statistics)
-- 📂 FTP upload challenge with webshell
-- 🐧 SSH user confinement and escape
-- 📜 PHP-based API to manage game logic
-- ✅ LocalStorage for solved problem tracking
+- 🖼️ 웹 기반 이미지 갤러리 인터페이스
+- 🔌 취약한 WordPress 플러그인 활용 (예: Flamingo, WP Statistics)
+- 📁 FTP 파일 업로드 및 웹셸 문제
+- 🐧 SSH 사용자 권한 제한 및 탈출 시나리오
+- 💻 PHP 기반 API로 문제 정답 확인 및 처리
+- 🧠 localStorage를 이용한 문제 클리어 여부 저장
 
-## 🧠 Team Members & Roles
+## 👥 팀원 및 역할
 
-| Name       | GitHub           | Role               |
-|------------|------------------|--------------------|
-| 김정현 (JeongHyeon96) | [GitHub Profile](https://github.com/JeongHyeon96) | WordPress & PHP API, Challenge Design |
-| ...        | ...              | ...                |
+| 이름       | GitHub ID         | 담당 역할                            |
+|------------|------------------|-------------------------------------|
+| 김정현     | JeongHyeon96     | 워드프레스 구성, PHP API, 문제 설계 |
+| (다른 팀원) | (GitHub ID)      | (역할)                               |
 
-## 📂 File Structure
+## 📂 폴더 구조 안내
 
-See [`docs/team_roles.md`](docs/team_roles.md) and [`docs/architecture.png`](docs/architecture.png) for full breakdown.
+각 폴더 및 파일에 대한 설명은 [`docs/team_roles.md`](docs/team_roles.md) 및  
+[`docs/architecture.png`](docs/architecture.png) 문서를 참고해주세요.
 
-## 🚀 Deployment
+## 📸 문제 예시 화면
 
-You can deploy this on a local Apache server with PHP and MySQL using Docker or manual configuration.
+(스크린샷은 추후 추가 예정)
 
-## 📸 Screenshots
+## 🖥️ 설치 및 실행 방법
 
-_coming soon_
+Apache + PHP + MySQL 환경에서 구동됩니다.  
+Docker 또는 직접 구축 방식으로 설치 가능합니다.
 
-## 📄 License
+## 📄 라이선스
 
-MIT License
+MIT License를 따릅니다.
