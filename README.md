@@ -15,7 +15,29 @@ WordPress, FTP, SSH 환경을 활용해 다양한 취약점을 학습할 수 있
 ---
 
 ## 📸 스크린샷
+### 01. 문제 풀이 과정
+![walkthrough 01](./walkthrough%2001.png)
 
+### 02. 문제 풀이 과정
+![walkthrough 02](./walkthrough%2002.png)
+
+### 03. 문제 풀이 과정
+![walkthrough 03](./walkthrough%2003.png)
+
+### 04. 문제 풀이 과정
+![walkthrough 04](./walkthrough%2004.png)
+
+### 05. 문제 풀이 과정
+![walkthrough 05](./walkthrough%2005.png)
+
+### 06. 문제 풀이 과정
+![walkthrough 06](./walkthrough%2006.png)
+
+### 07. 문제 풀이 과정
+![walkthrough 07](./walkthrough%2007.png)
+
+### 08. 문제 풀이 과정
+![walkthrough 08](./walkthrough%2008.png)
 
 ---
 
