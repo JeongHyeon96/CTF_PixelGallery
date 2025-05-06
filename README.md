@@ -2,8 +2,6 @@
 
 > Team EN이 제작한 CTF(해킹 문제 풀이) 스타일 웹 갤러리 프로젝트입니다.
 
-> 프로젝트의 데모는 아래 GIF에서 확인하실 수 있습니다:
-
 ![Pixel Gallery Demo](./CTF_PixelGallery_main.gif)
 ---
 
