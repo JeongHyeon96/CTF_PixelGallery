@@ -4,7 +4,7 @@
 
 > 프로젝트의 데모는 아래 GIF에서 확인하실 수 있습니다:
 
-![Pixel Gallery Demo](./assets/CTF_PixelGallery_main.gif)
+![Pixel Gallery Demo](./CTF_PixelGallery_main.gif)
 ---
 
 ## 🎯 프로젝트 소개
