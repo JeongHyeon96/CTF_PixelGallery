@@ -94,7 +94,7 @@ OVA 파일 가져오기 -> 네트워크: 호스트전용 -> nmap 스캐닝으로
 
 프로젝트의 상세 워크스루는 아래 링크에서 다운로드할 수 있습니다:
 
-👉 [워크스루 다운로드 (Word 파일)](https://github.com/JeongHyeon96/CTF_PixelGallery_TeamEN/blob/main/EN_CTF%20walkthrough.docx)
+👉 [워크스루 다운로드](https://github.com/JeongHyeon96/CTF_PixelGallery/blob/main/EN_CTF%20walkthrough.pdf)
 
 ---
 
